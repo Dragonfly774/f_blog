@@ -1,0 +1,21 @@
+.gray {
+    background-image: url(MARS-2-7.png);
+    float: left;
+    width: 150px;
+    height: 50px;
+}
+
+h3 {
+    color: darkgray;
+}
+
+
+form.login_form {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 450px;
+    background-color: #ffcc00;
+    border: 1px solid #808080;
+    border-radius: 5px;
+    padding: 10px;
+}
